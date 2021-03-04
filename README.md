@@ -9,19 +9,23 @@ ___
 2) Faça Download do repositório ou **git clone** em seu computador.
 3) **Execute no terminal.:**
 
-    a) *dotnet restore;*
+    a) *Altere a string de conexao do MySql no arquivo CadCliente/appsettings.json*
 
-    b) *dotnet build;*
+    a) *dotnet restore*
+
+    b) *dotnet build*
 
     c) *dotnet tool install --global dotnet-ef*
 
     d) *dotnet ef database update*
 
-    e) *dotnet run;*
+    e) *dotnet run*
 
 ___
 ## Caso esteja utilizando o Visual Studio.:
-**Abra o Prompt do nuget e execute o comando.:**
+**Abra o Prompt do nuget e execute o seguinte comando.:**
 - update-database
+
+### Arquivo de Migrations já compilado; Apenas execute os passoa acima para fazer update no banco.
 
 ##### Projeto desenvolvido usando [Visual Studio Code](https://code.visualstudio.com), [.NET Core CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/), linguagem [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference) e estrutura [MVC](https://docs.microsoft.com/en-us/previous-versions/aspnet/dd381412(v=vs.108)).
