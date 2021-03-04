@@ -25,6 +25,6 @@ ___
 **Abra o Prompt do nuget e execute o seguinte comando.:**
 - update-database
 
-### Arquivo de Migrations já compilado; Apenas execute os passoa acima para fazer update no banco.
+#### Arquivo de Migrations já compilado; Apenas execute os passos acima para fazer update no banco.
 
 ##### Projeto desenvolvido usando [Visual Studio Code](https://code.visualstudio.com), [.NET Core CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/), linguagem [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference) e estrutura [MVC](https://docs.microsoft.com/en-us/previous-versions/aspnet/dd381412(v=vs.108)).
