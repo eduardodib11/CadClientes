@@ -7,9 +7,8 @@ ___
 
 1) Instale o [.NET CORE 5.0.2 ](https://dotnet.microsoft.com/download/dotnet-core/5.0)
 2) Faça Download do repositório ou **git clone** em seu computador.
-3) **Execute no terminal.:**
-
-    a) *Altere a string de conexao do MySql no arquivo CadCliente/appsettings.json*
+3) Altere a string de conexao do MySql no arquivo CadCliente/appsettings.json
+4) **Execute no terminal.:**
 
     a) *dotnet restore*
 
